@@ -9,8 +9,8 @@
 <img align="center" src="demo/2.png" alt="pencil" width="64"/>
 <img align="center" src="demo/3.png" alt="pencil" width="64"/> -->
 
-<img align="center" alt="Django" src="demo/1.png"  width="200">
-<img align="center" alt="Django" src="demo/2.png"  width="200">
+<img align="left" alt="Django" src="demo/1.png"  width="200">
+<img align="left" alt="Django" src="demo/2.png"  width="200">
 
 
 ## 3D file
