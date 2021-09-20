@@ -5,9 +5,9 @@
  # Screen shot
 
 ## pencil
-<img src="demo/1.png" alt="pencil" width="200"/>
-<img src="demo/2.png" alt="pencil" width="200"/>
-<img src="demo/3.png" alt="pencil" width="200"/>
+<img align="center" src="demo/1.png" alt="pencil" width="200"/>
+<img align="center" src="demo/2.png" alt="pencil" width="200"/>
+<img align="center" src="demo/3.png" alt="pencil" width="200"/>
 
 
 ## 3D file
