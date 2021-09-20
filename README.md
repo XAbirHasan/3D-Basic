@@ -26,7 +26,7 @@
 <img src="demo/18.png" alt="pigibank" width="250"/>  <img src="demo/19.png" alt="pigibank" width="250"/>  <img src="demo/20.png" alt="pigibank" width="250"/>
 
 ### Hat
-<img src="demo/20.png" alt="hat" width="250"/>  <img src="demo/21.png" alt="hat" width="250"/>  <img src="demo/22.png" alt="hat" width="250"/>
+<img src="demo/21.png" alt="hat" width="250"/>  <img src="demo/22.png" alt="hat" width="250"/>
 
 ### Dumbel
 <img src="demo/23.png" alt="dumbel" width="250"/>  <img src="demo/24.png" alt="dumbel" width="250"/>
