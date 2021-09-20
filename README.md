@@ -5,12 +5,11 @@
  # Screen shot
 
 ## pencil
-<!-- <img align="center" src="demo/1.png" alt="pencil" width="64"/>
-<img align="center" src="demo/2.png" alt="pencil" width="64"/>
-<img align="center" src="demo/3.png" alt="pencil" width="64"/> -->
+<img align="left" src="demo/1.png" alt="pencil" width="250"/>
+<img align="left" src="demo/2.png" alt="pencil" width="250"/>
+<img align="left" src="demo/3.png" alt="pencil" width="250"/>
 
-<img align="left" alt="Django" src="demo/1.png"  width="200">
-<img align="left" alt="Django" src="demo/2.png"  width="200">
+
 
 
 ## 3D file
