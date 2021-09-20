@@ -5,10 +5,11 @@
  ## Screen shot
 
 ### pencil
-<img align="left" src="demo/1.png" alt="pencil" width="250"/>
-<img align="left" src="demo/2.png" alt="pencil" width="250"/>
-<img align="left" src="demo/3.png" alt="pencil" width="250"/>
-
+<p align="center">
+    <img align="left" src="demo/1.png" alt="pencil" width="250"/>
+    <img align="left" src="demo/2.png" alt="pencil" width="250"/>
+    <img align="left" src="demo/3.png" alt="pencil" width="250"/>
+</p>
 
 
 
