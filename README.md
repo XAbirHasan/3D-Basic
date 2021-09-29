@@ -28,7 +28,7 @@
 ### Hat
 <img src="demo/21.png" alt="hat" width="250"/>  <img src="demo/22.png" alt="hat" width="250"/>
 
-### Dumbel
+### Dumbbell
 <img src="demo/23.png" alt="dumbel" width="250"/>  <img src="demo/24.png" alt="dumbel" width="250"/>
 
 ### Tools
@@ -49,7 +49,7 @@
 * **[Egg](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/egg.fbx)**
 * **[Piggy Bank](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/pigibank.fbx)**
 * **[Hat](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/hat.fbx)**
-* **[Dumbel](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/dumbel.fbx)**
+* **[Dumbbell](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/dumbel.fbx)**
 * **[Tools](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/tools.fbx)**
 * **[Mug](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/mug.fbx)**
 * **[Spoon](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/spoon.fbx)**
