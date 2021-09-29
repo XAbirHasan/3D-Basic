@@ -22,7 +22,7 @@
 ### Egg
 <img src="demo/16.png" alt="egg" width="250"/>  <img src="demo/17.png" alt="egg" width="250"/>
 
-### Pigibank
+### Piggy Bank
 <img src="demo/18.png" alt="pigibank" width="250"/>  <img src="demo/19.png" alt="pigibank" width="250"/>  <img src="demo/20.png" alt="pigibank" width="250"/>
 
 ### Hat
@@ -47,7 +47,7 @@
 * **[Sunglass](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/sunglass.fbx)**
 * **[Headphone](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/headphone.fbx)**
 * **[Egg](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/egg.fbx)**
-* **[Pigibank](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/pigibank.fbx)**
+* **[Piggy Bank](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/pigibank.fbx)**
 * **[Hat](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/hat.fbx)**
 * **[Dumbel](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/dumbel.fbx)**
 * **[Tools](https://github.com/XAbirHasan/3D-Basic/blob/master/3d-file/tools.fbx)**
